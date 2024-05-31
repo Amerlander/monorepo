@@ -1,5 +1,11 @@
 # inlang-vs-code-extension
 
+## 1.44.10
+
+### Patch Changes
+
+- d88613e: update docs with supported libraries
+
 ## 1.44.9
 
 ### Patch Changes
